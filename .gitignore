@@ -1,0 +1,16 @@
+
+.project
+.settings/org.eclipse.m2e.core.prefs
+timely-security-oauth2/.settings/org.eclipse.m2e.core.prefs
+timely-security-oauth2/timely-security-oauth2-client/.settings/org.eclipse.m2e.core.prefs
+timely-security-oauth2/timely-security-oauth2-authzserver/.classpath
+timely-security-oauth2/timely-security-oauth2-authzserver/.settings/org.eclipse.core.resources.prefs
+timely-security-oauth2/timely-security-oauth2-authzserver/.settings/org.eclipse.jdt.core.prefs
+timely-security-oauth2/timely-security-oauth2-authzserver/.settings/org.eclipse.m2e.core.prefs
+timely-security-oauth2/timely-security-oauth2-client/.classpath
+timely-security-oauth2/timely-security-oauth2-client/.settings/org.eclipse.core.resources.prefs
+timely-security-oauth2/timely-security-oauth2-client/.settings/org.eclipse.jdt.core.prefs
+timely-security-oauth2/timely-security-oauth2-resourceserver/.classpath
+timely-security-oauth2/timely-security-oauth2-resourceserver/.settings/org.eclipse.core.resources.prefs
+timely-security-oauth2/timely-security-oauth2-resourceserver/.settings/org.eclipse.jdt.core.prefs
+timely-security-oauth2/timely-security-oauth2-resourceserver/.settings/org.eclipse.m2e.core.prefs

@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.timely.security</groupId>
+		<artifactId>timely-security</artifactId>
+		<version>${timely-security.version}</version>
+	</parent>
+	<artifactId>timely-security-oauth2</artifactId>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>timely-security-oauth2-client</module>
+		<module>timely-security-oauth2-authzserver</module>
+		<module>timely-security-oauth2-resourceserver</module>
+	</modules>
+</project>
